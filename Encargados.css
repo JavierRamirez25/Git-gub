@@ -1,3 +1,22 @@
+body{
+    background-image: url(blanco.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.card:hover{
+    background-color: skyblue;
+    transform: translateY(-3%);
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.4);
+}    
+
+.Container{
+    display: flex;
+}
+
+
 nav{
     display: flex;
     align-items: center;
