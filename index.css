@@ -62,3 +62,32 @@ button:active {
   transform: translateY(5px);
   box-shadow: 0px 0px 0px 0px #a29bfe;
 }
+
+
+.style {
+  display: flex;
+  font-family: Arial;
+  width: 70%;
+}
+
+
+.mision {
+  background-color: azure;
+  width: 50%;
+  margin: 15px;
+  box-shadow: 0px 5.5px 10px black;
+}
+
+.vision {
+  background-color: azure;
+  width: 50%;
+  margin: 15px;
+  box-shadow: 0px 5.5px 10px black;
+}
+
+card:hover{
+    background-color: lightsteelblue;
+    transform: translateY(-3%);
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.4);
+
+}
