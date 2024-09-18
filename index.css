@@ -70,6 +70,12 @@ button:active {
   width: 70%;
 }
 
+.card:hover{
+    background-color: lightsteelblue;
+    transform: translateY(-3%);
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.4);
+
+}
 
 .mision {
   background-color: azure;
