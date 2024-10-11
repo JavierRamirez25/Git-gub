@@ -94,3 +94,15 @@ card:hover{
     box-shadow: 5px 5px 5px rgba(0,0,0,0.4);
 
 }
+
+
+.whatsapp-button {
+            background-color: #25D366; /* Color de WhatsApp */
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            text-align: center;
+        }
