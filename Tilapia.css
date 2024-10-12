@@ -214,3 +214,15 @@ button:active {
   filter: drop-shadow(8px 10px 10px black);
   transform: translateY(-1%);
 }
+
+
+img{
+    margin: auto;
+    cursor: pointer;
+    transition: 2s;
+}
+
+img:hover{
+    transform: scale(1.1);
+    transition: 2s;
+}
