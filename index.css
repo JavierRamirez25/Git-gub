@@ -95,10 +95,61 @@ card:hover{
 
 }
 
-img1{
-    height: 600px;
+.card1{
+    position: absolute;
+}
+
+.card2{
+position: absolute;
+    left: 25%;
+}
+
+.card3{
+position: absolute;
+    left: 50%;
+}
+
+.card4{
+position: absolute;
+    left: 75%;
+}
+
+.card5{
+    position: absolute;
+    left: 25%;
+}
+
+.card6{
+position: absolute;
+    left: 50%;
+}
+
+
+.cardHorario{
+    background-color: darkgray;
+    transition: 200ms;
+}
+
+.cardHorario:hover{
+    background-color: lightsteelblue;
+    transform: translateY(-3%);
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.4);
 }
 
 
 
 
+.cardHorario2{
+    background-color: darkgray;
+    transition: 200ms;
+}
+
+.cardHorario2:hover{
+    background-color: lightsteelblue;
+    transform: translateY(-3%);
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.4);
+}
+
+.texto{
+    background-color: black;
+}
